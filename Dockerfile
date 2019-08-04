@@ -1,4 +1,4 @@
-FROM arm32v6/debian
+FROM armhf/debian
 
 # original container for x86 -> MAINTAINER TopCat <topmailcat@googlemail.com>
 MAINTAINER huncyrus <cyrus@uw.hu>
